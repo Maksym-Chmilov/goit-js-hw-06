@@ -1,5 +1,5 @@
 const changeColorBtn = document.querySelector(".change-color");
-const colorBg = document.querySelector(".widget");
+const colorBg = document.querySelector("body");
 const colorText = document.querySelector(".color");
 
 changeColorBtn.addEventListener("click", () => {
